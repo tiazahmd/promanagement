@@ -16,10 +16,8 @@ If you want to test it and not kill your OS process (or do anything dangerous), 
 
 ### How to Run:
 ``` 
-$ git clone https://github.com/tiazahmd/promanagement
-$ cd promanagement
-$ pip install -r `requirements.txt`
-$ python3 main.py
+$ pip install Promanagement
+$ promanagement.py
 ```
 
 ### Screenshot:

@@ -1,3 +1,5 @@
+#!python
+
 from PyQt5 import QtGui, QtCore, QtWidgets
 import sys, os, psutil
 import design, modules
