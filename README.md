@@ -1,5 +1,5 @@
 # Process Management App
-This is my second GUI app. A small utility app that shows:
+A small utility app that shows:
 - Process ID
 - Process Name
 - Username of Process Owner
